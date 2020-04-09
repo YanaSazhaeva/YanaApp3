@@ -81,7 +81,6 @@ namespace ConsoleApplication1
             middle = integral/(d2-d1);
             Console.Write("Среднее значение: " + Math.Round(middle, 3) + "\n");
             }   
-
         }
     }
 }
